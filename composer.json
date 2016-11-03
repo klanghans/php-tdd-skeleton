@@ -1,0 +1,20 @@
+{
+    "name": "klanghans/php-tdd-skeleton",
+    "description": "simple skeleton for Test Driven Development in PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Example\\": "src/Example"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "5.6.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Langhans",
+            "email": "kevin.langhans@slashgarbage.de"
+        }
+    ]
+}
