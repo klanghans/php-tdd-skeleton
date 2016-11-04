@@ -2,7 +2,7 @@
 
 A simple TDD skeleton that lets you jump right into TestDrivenDevelopment with PHP.
 
-##Instalation
+##Installation
 ```
 composer install
 ```
